@@ -1,0 +1,8 @@
+openai
+langchain
+langchain-openai
+langchain-core
+streamlit
+tiktoken
+python-dotenv
+pypdf
